@@ -1,0 +1,10 @@
+﻿global using AutoMapper;
+global using MediatR;
+global using SixLabors.ImageSharp;
+global using SixLabors.ImageSharp.Formats.Jpeg;
+global using YoungtimerLease.Contracts.DTO;
+global using YoungtimerLease.Contracts.MediatR.Command.Cars;
+global using YoungtimerLease.Contracts.MediatR.Query.Cars;
+global using YoungtimerLease.Domain.Model;
+global using YoungtimerLease.Domain.Queries.Cars;
+global using YoungtimerLease.Persistance.Interfaces;
